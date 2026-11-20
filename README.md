@@ -6,6 +6,8 @@
 
 **I design and build software systems — then examine the boundaries that keep them reliable and secure.**
 
+<img src="./profile-architecture.svg" alt="Architecture map: interface, application, data, and security layers" width="100%" />
+
 [GitHub](https://github.com/Kavyanjali07) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/kavyanjali07) &nbsp; / &nbsp; [Portfolio](https://github.com/Kavyanjali07/Portfolio)
 
 <sub><strong>ENGINEERING NOTE 001</strong> &nbsp; • &nbsp; HYBRID SOFTWARE + SECURITY</sub>
