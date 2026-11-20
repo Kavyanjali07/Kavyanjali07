@@ -59,7 +59,7 @@ A Linux-focused tool exploring traffic monitoring, anomaly detection, and genera
 ### 03 · [User-Friendly System Call Interface for Enhanced Security](https://github.com/Kavyanjali07/User-Friendly-System-Call-Interface-for-Enhanced-Security)
 **Systems programming · C++ · Python · Access control**
 
-A project exploring authenticated access to system operations, role-based permissions, command handling, and audit logging.
+An educational prototype exploring command allowlisting and audit logging. Its current authentication and command-execution design has known security limitations, documented in the repository.
 
 ### 04 · [PULSE](https://github.com/Kavyanjali07/PULSE)
 **Interactive frontend · React · Three.js**
