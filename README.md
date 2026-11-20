@@ -1,6 +1,6 @@
 <!--
   Profile README for Kavyanjali07
-  Keep this page focused on real projects, engineering interests, and clear ways to connect.
+  Focus: practical software engineering, backend development, and cybersecurity.
 -->
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ## The short version
 
-I'm a Computer Science engineer interested in the intersection of **backend engineering, full-stack development, and cybersecurity**.
+I'm a Computer Science student and developer interested in the intersection of **backend engineering, full-stack development, and cybersecurity**.
 
 I enjoy understanding a system end to end: how its APIs are designed, how data moves through it, how users interact with it, and where its security boundaries need to be stronger. I learn by building, testing, debugging, and documenting real projects.
 
