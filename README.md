@@ -1,123 +1,138 @@
-<!--
-  Profile README for Kavyanjali07
-  Focus: practical software engineering, backend development, and cybersecurity.
--->
-
 <div align="center">
 
-# Kavyanjali Vashishtha
+# KAVYANJALI
 
-### Software Engineering × Cybersecurity
+### SOFTWARE ENGINEERING  /  CYBERSECURITY
 
-**I build practical software, explore how systems fail, and work on making them safer.**
+**I design and build software systems — then examine the boundaries that keep them reliable and secure.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kavyanjali07-181717?style=for-the-badge&logo=github)](https://github.com/Kavyanjali07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavyanjali07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Kavyanjali07/Portfolio)
+[GitHub](https://github.com/Kavyanjali07) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/kavyanjali07) &nbsp; / &nbsp; [Portfolio](https://github.com/Kavyanjali07/Portfolio)
+
+<sub><strong>ENGINEERING NOTE 001</strong> &nbsp; • &nbsp; HYBRID SOFTWARE + SECURITY</sub>
 
 </div>
 
 ---
 
-## The short version
+## 01 / ENGINEERING POSITION
 
-I'm a Computer Science student and developer interested in the intersection of **backend engineering, full-stack development, and cybersecurity**.
+I'm a Computer Science student working across **backend engineering, full-stack product development, and cybersecurity**.
 
-I enjoy understanding a system end to end: how its APIs are designed, how data moves through it, how users interact with it, and where its security boundaries need to be stronger. I learn by building, testing, debugging, and documenting real projects.
+My projects sit at the intersection of building functionality and understanding its underlying system: API boundaries, identity and access, data flow, operating-system behaviour, network controls, and the user experience around them.
 
-- **Backend:** Java, Spring Boot, REST APIs, Spring Security, Hibernate
-- **Security & systems:** Linux, networking, access control, firewall automation, system security
-- **Frontend:** React, Next.js, TypeScript
-- **Data & tooling:** SQL, MySQL, PostgreSQL, MariaDB, Git, Docker, Maven
+I prefer to understand the whole path — from interface to API to persistence — rather than treat each layer as an isolated task.
 
-## What I'm interested in
+## 02 / SYSTEMS I WORK ON
 
-<div align="center">
+| DOMAIN | ENGINEERING FOCUS | TOOLS I USE |
+|:--|:--|:--|
+| **Backend systems** | REST APIs, authentication, persistence, service logic | Java, Spring Boot, Hibernate |
+| **Application security** | Identity, authorization, token handling, validation | Spring Security, JWT |
+| **Full-stack products** | Interface design, API integration, data visualisation | React, Next.js, TypeScript |
+| **Systems & networks** | Linux, connection monitoring, firewall rules, command boundaries | Python, C++, Linux |
+| **Data & delivery** | Relational data, version control, builds and containers | PostgreSQL, MySQL, Git, Docker |
 
-| Backend & systems | Security engineering | Full-stack products |
-|:---:|:---:|:---:|
-| APIs and service design | Network and application security | Useful, accessible interfaces |
-| Authentication and authorization | Linux and system hardening | Frontend–backend integration |
-| Databases and data modelling | Secure command execution | End-to-end product development |
+## 03 / SELECTED ENGINEERING WORK
 
-</div>
+### 01 — SmartExpenseAI
+**Full-stack application / Personal finance**
 
-## Selected work
+A finance-management application combining a Spring Boot API and a Next.js interface. The project explores expense workflows, budgets, analytics, CSV handling, and AI-assisted insights.
 
-A few projects that represent the kind of problems I like working on:
+**JAVA 17** · **SPRING BOOT** · **SPRING SECURITY** · **NEXT.JS** · **REACT** · **SQL**
 
-### 01 · [SmartExpenseAI](https://github.com/Kavyanjali07/SmartExpenseAI)
-**Full-stack finance application · Java · Spring Boot · Next.js**
-
-A personal finance manager focused on expense tracking, budgeting, analytics, and AI-assisted spending insights. Includes a backend API and a separate frontend.
-
-### 02 · [Dynamic Firewall Rule Generator](https://github.com/Kavyanjali07/Dynamic-Firewall-Rule-Generator)
-**Cybersecurity · Python · Linux · Network monitoring**
-
-A Linux-focused tool exploring traffic monitoring, anomaly detection, and generating firewall rules from configurable signals.
-
-### 03 · [User-Friendly System Call Interface for Enhanced Security](https://github.com/Kavyanjali07/User-Friendly-System-Call-Interface-for-Enhanced-Security)
-**Systems programming · C++ · Python · Access control**
-
-An educational prototype exploring command allowlisting and audit logging. Its current authentication and command-execution design has known security limitations, documented in the repository.
-
-### 04 · [PULSE](https://github.com/Kavyanjali07/PULSE)
-**Interactive frontend · React · Three.js**
-
-An experimental 3D information-intelligence interface exploring interactive visualisation, source monitoring concepts, and scroll-driven storytelling.
-
-### 05 · [Travel-graph](https://github.com/Kavyanjali07/Travel-graph)
-**Data structures & algorithms · Python · Tkinter**
-
-A route-planning application that models Indian cities as a graph and demonstrates Dijkstra's algorithm, BFS, DFS, and weighted route selection.
-
-### 06 · [Portfolio](https://github.com/Kavyanjali07/Portfolio)
-**Personal portfolio · Next.js · TypeScript · Tailwind CSS**
-
-The source for my developer portfolio and a home for selected work.
+[REPOSITORY →](https://github.com/Kavyanjali07/SmartExpenseAI)
 
 ---
 
-## My toolkit
+### 02 — Dynamic Firewall Rule Generator
+**Security tooling / Network behaviour**
 
-<div align="center">
+A Python desktop tool that reads active network connections, tracks connection patterns, flags heuristic anomalies, and can create firewall rules through platform-specific commands.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+The current implementation uses psutil, SQLite, Tkinter, Windows netsh, and Linux iptables. Its detection logic is experimental and threshold-based — not a validated intrusion-detection system.
 
-</div>
+**PYTHON** · **PSUTIL** · **SQLITE** · **TKINTER** · **IPTABLES**
 
-## Currently sharpening
+[REPOSITORY →](https://github.com/Kavyanjali07/Dynamic-Firewall-Rule-Generator)
 
-- Designing secure backend services with Java and Spring Boot
-- Application security, authentication, and authorization
-- Linux, networking, and practical security tooling
-- Data structures, algorithms, and system design
-- Testing, containerisation, and dependable development workflows
+---
 
-## A note on how I work
+### 03 — User-Friendly System Call Interface
+**Systems programming / Command boundaries**
 
-I value readable code, useful documentation, honest project claims, and learning from the parts that don't work the first time. The repositories here are works in progress; I aim to make their implementation, limitations, and setup steps clear.
+An educational C++ project exploring user records, command allowlisting, and audit logging. The current version has known weaknesses in password storage and command execution; those limitations are documented rather than presented as solved security controls.
+
+**C++** · **OPENSSL** · **LINUX** · **COMMAND EXECUTION**
+
+[REPOSITORY →](https://github.com/Kavyanjali07/User-Friendly-System-Call-Interface-for-Enhanced-Security)
+
+---
+
+### 04 — ORBIT (repository: PULSE)
+**Interactive product experience / 3D information interface**
+
+An experimental React and Three.js experience that visualises a source-monitoring concept through a 3D network, change-detection story, and interactive demo workspace.
+
+**REACT 19** · **VITE** · **THREE.JS** · **FRAMER MOTION**
+
+[REPOSITORY →](https://github.com/Kavyanjali07/PULSE)
+
+---
+
+### 05 — Travel Graph
+**Algorithms / Route optimisation**
+
+A Python route-planning application that models Indian cities as a weighted graph and demonstrates shortest-path and traversal strategies, including Dijkstra, BFS, and DFS.
+
+**PYTHON** · **GRAPHS** · **DIJKSTRA** · **BFS** · **DFS**
+
+[REPOSITORY →](https://github.com/Kavyanjali07/Travel-graph)
+
+---
+
+### 06 — Portfolio
+**Frontend engineering / Interaction design**
+
+The source code for my portfolio, built with Next.js, TypeScript, Tailwind CSS, animation libraries, and interactive visual effects.
+
+**NEXT.JS** · **TYPESCRIPT** · **TAILWIND** · **GSAP**
+
+[REPOSITORY →](https://github.com/Kavyanjali07/Portfolio)
+
+## 04 / CURRENT BUILD
+
+**KnowledgeNetwork — collaborative knowledge graph**
+
+A full-stack knowledge-management project exploring graph and node management, interactive graph layouts, visibility controls, authentication, and workspace-level access.
+
+Current development stack: Java / Spring Boot, React / TypeScript, and PostgreSQL.
+
+The repository is private while the project is being developed and reviewed. It will be presented publicly only after its implementation, configuration, and security posture are ready for review.
+
+## 05 / ENGINEERING PRINCIPLES
+
+    TRACE THE DATA FLOW       Understand how information moves.
+    DEFINE TRUST BOUNDARIES   Make identity and permissions explicit.
+    TEST THE FAILURE PATHS   Verify behaviour beyond the happy path.
+    DOCUMENT THE REAL SYSTEM Describe what the code actually does.
+
+## 06 / CURRENT LEARNING TRACK
+
+- Java backend architecture and Spring Security
+- Secure authentication, authorization, and session design
+- Graph data structures and application architecture
+- Linux networking and practical security tooling
+- Automated testing, CI/CD, and deployment fundamentals
 
 ---
 
 <div align="center">
 
-**Have an interesting engineering or security problem? Let's connect.**
+**OPEN TO SOFTWARE ENGINEERING • BACKEND • FULL-STACK • SECURITY-FOCUSED ROLES**
 
-[LinkedIn](https://www.linkedin.com/in/kavyanjali07) · [Portfolio repository](https://github.com/Kavyanjali07/Portfolio) · [Email](mailto:kavyanjalivashishtha@gmail.com)
+[CONNECT ON LINKEDIN](https://www.linkedin.com/in/kavyanjali07)
 
-<sub>Build with curiosity. Secure by design. Improve through iteration.</sub>
+<sub>BUILD → INSPECT → TEST → IMPROVE &nbsp; / &nbsp; LAST UPDATED: 2026</sub>
 
 </div>
