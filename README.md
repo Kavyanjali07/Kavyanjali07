@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Kavyanjali
+# Kavyanjali Vashishtha
 
 ### Software Engineering × Cybersecurity
 
